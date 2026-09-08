@@ -1,0 +1,42 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>abdera-i18n</artifactId>
+  <packaging>bundle</packaging>
+  <name>I18N Libraries</name>
+  <version>1.1.3</version>  
+  <description>RFC 3987 (Internationlaized Resource Identifier) libraries.</description>
+  <url>http://abdera.apache.org</url>
+  <parent>
+    <groupId>org.apache.abdera</groupId>
+    <artifactId>abdera</artifactId>
+    <version>1.1.3</version>  
+    <relativePath>../..</relativePath>
+  </parent>
+   <properties>
+     <topDir>${basedir}/../..</topDir>
+     <abdera.osgi.default.exports>org.apache.abdera.i18n.*</abdera.osgi.default.exports>
+    <abdera.osgi.default.imports>
+      org.apache.commons.codec*;version="[1.3,2)",
+      *
+    </abdera.osgi.default.imports>
+   </properties>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.geronimo.specs</groupId>
+      <artifactId>geronimo-activation_1.1_spec</artifactId>
+      <version>1.1</version>  
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>commons-codec</groupId>
+      <artifactId>commons-codec</artifactId>
+    </dependency>
+  </dependencies>
+
+</project>

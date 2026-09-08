@@ -1,0 +1,3 @@
+
+# Keep dependency JARs byte-exact when added or cloned on Windows and Linux.
+*.jar binary
