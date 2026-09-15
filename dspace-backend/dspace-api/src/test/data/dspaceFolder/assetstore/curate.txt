@@ -1,2 +1,0 @@
-checklinks
-requiredmetadata

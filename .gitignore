@@ -1,5 +1,0 @@
-# This distribution deliberately tracks the complete Maven dependency repository.
-!/offline/
-!/offline/maven-repository/
-!/offline/maven-repository/**
-!*.jar
