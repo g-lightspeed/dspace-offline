@@ -1,0 +1,98 @@
+{
+  "format": "ZIP split into sequential byte volumes; concatenate before extraction",
+  "source_repository": "https://github.com/g-lightspeed/dspace-offline",
+  "source_commit": "c69b4b6ba0979a3231a873931eed0ce2920b8438",
+  "tracked_files": 11654,
+  "tracked_bytes": 921113516,
+  "archive_file": "dspace-offline.zip",
+  "archive_bytes": 797328120,
+  "archive_sha256": "e07ad6fef2cf64137005cda7001e59f6e3def44e3ddf746867c709f8372d6de4",
+  "part_size_limit_bytes": 49000000,
+  "parts": [
+    {
+      "file": "dspace-offline.zip.001",
+      "bytes": 49000000,
+      "sha256": "dbcb1978c3dd9d36d65025f27a7b0321b1d844eaf1094fd661f03a553d444a94"
+    },
+    {
+      "file": "dspace-offline.zip.002",
+      "bytes": 49000000,
+      "sha256": "e83c2214bbea8a34e99f675fc25b0877cad7ffaa8fefc43e04ed754edbbfa18c"
+    },
+    {
+      "file": "dspace-offline.zip.003",
+      "bytes": 49000000,
+      "sha256": "6677c8cb089a3842c687da720bb162dd5798cb868980ac64051ae263f70812f5"
+    },
+    {
+      "file": "dspace-offline.zip.004",
+      "bytes": 49000000,
+      "sha256": "6a1e6b538d1fdd14b86b2234c375a4a0c530666e497efe0bd71f2c7d0be60ffc"
+    },
+    {
+      "file": "dspace-offline.zip.005",
+      "bytes": 49000000,
+      "sha256": "a74aa22dead9c4d8a2d42952b9958fc9252e3dede99dd37cbe711544a83ad7ba"
+    },
+    {
+      "file": "dspace-offline.zip.006",
+      "bytes": 49000000,
+      "sha256": "34def9272d5fabac5bb4590f7cc996dc820dff7581c1f0389a2a73c72574eaaa"
+    },
+    {
+      "file": "dspace-offline.zip.007",
+      "bytes": 49000000,
+      "sha256": "c1fed22d2b98fa7e6ddd0513cbdb9ff398ae8e3fc60f78afdbfc408ad2d067e0"
+    },
+    {
+      "file": "dspace-offline.zip.008",
+      "bytes": 49000000,
+      "sha256": "b02e8bffe2fd5a4b989508c31887c49b79d50497fa0549d423710494c5376ed1"
+    },
+    {
+      "file": "dspace-offline.zip.009",
+      "bytes": 49000000,
+      "sha256": "54ac4dd2fa737422c1adfec9868df506907b4a86462d31c00f14dc78a014edb1"
+    },
+    {
+      "file": "dspace-offline.zip.010",
+      "bytes": 49000000,
+      "sha256": "035a55387fd6f1ed385db37955b73c3ddec0fe917591f078a7a09943ad13781b"
+    },
+    {
+      "file": "dspace-offline.zip.011",
+      "bytes": 49000000,
+      "sha256": "e4f0aa562cfc92577fe59e507155d7fb62e2d13c5c9263f3dbb1c7722e6d319a"
+    },
+    {
+      "file": "dspace-offline.zip.012",
+      "bytes": 49000000,
+      "sha256": "aef3b708cf50a1dbc5f88c256710139e1ac1129c121ec4b0b8434ebb2603fb23"
+    },
+    {
+      "file": "dspace-offline.zip.013",
+      "bytes": 49000000,
+      "sha256": "473ca00cc40bf4c381147579e77d8084ccc9f083201332d48980c1ccafa34011"
+    },
+    {
+      "file": "dspace-offline.zip.014",
+      "bytes": 49000000,
+      "sha256": "9818fff6b99f7534e44a76c728375fdcdc421576c5d05f6d6fa4c99293f6e51f"
+    },
+    {
+      "file": "dspace-offline.zip.015",
+      "bytes": 49000000,
+      "sha256": "8854b92a64a68b2337ac93aaccf46250f0bbd9144fb1a370ee4a7843565d7ec0"
+    },
+    {
+      "file": "dspace-offline.zip.016",
+      "bytes": 49000000,
+      "sha256": "aa289d5148d31f0c5d0c765f524f8c44781f67b965e906a695ad4b950a847a4f"
+    },
+    {
+      "file": "dspace-offline.zip.017",
+      "bytes": 13328120,
+      "sha256": "fcfadf3b088ab15cd7c9b160af1426631ab767537182b4c45fbc6231166991ba"
+    }
+  ]
+}

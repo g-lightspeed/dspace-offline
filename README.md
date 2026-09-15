@@ -2,6 +2,13 @@
 
 This archive supplies backend source, a prebuilt DSpace installer with runtime JARs, and the complete prepared Maven repository. Preserve the directory layout. Runtime libraries belong in their original application directories; do not flatten all JARs into one classpath.
 
+## Download the multipart ZIP
+
+The [`archives/`](archives/README.md) directory provides a complete snapshot of the
+original tracked payload as ZIP parts smaller than 50 MB each, with SHA-256
+checksums and a Python script to verify and join them. Download every part and
+follow the [restoration instructions](archives/README.md#download-and-restore).
+
 ## Contents
 
 - `dspace-backend/`: DSpace 7.6.7 source, including its original Maven modules and licenses.
